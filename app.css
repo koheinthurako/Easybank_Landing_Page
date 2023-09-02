@@ -11871,6 +11871,10 @@ textarea.form-control-lg {
   transition: 0.3s;
 }
 
+.navbar a {
+  cursor: pointer;
+}
+
 @media screen and (max-width: 576px) {
   #titleFont {
     font-size: calc(2rem + 1.5vw);
